@@ -22,3 +22,7 @@ for i in unicode_list:
     draw = ImageDraw.Draw(img)
     draw.text((0, 0), chr(int(each_unicode, 16)), font=font, fill=black)
     img.save(font_name + "/" + font_name + "_" + each_unicode + ".JPG")
+
+# whatwehfiashefi
+#saasdfasdf
+#fasionvoiasdnfoi
