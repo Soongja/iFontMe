@@ -1,4 +1,4 @@
-## font labels다 얘들아
+## font labels
 0 - NanumGothic (SOURCE)
 
 1 - SecretDiary
