@@ -1,6 +1,6 @@
 ## font labels
 
-## 0 - NanumGothic (SOURCE)
+#### 0 - NanumGothic (SOURCE)
 
 #### 1 - SecretDiary
 #### 2 - MyHandwritingM
