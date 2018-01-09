@@ -2,10 +2,15 @@
 0 - NanumGothic (SOURCE)
 
 1 - SecretDiary
+
 2 - MyHandwritingM
+
 3 - ThreeLeafClover
+
 4 - Mother'sLetterM
+
 5 - Hangseo
+
 6 - LipM
 
 99 - LoveStory (TARGET)
