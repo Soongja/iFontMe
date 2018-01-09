@@ -2,16 +2,16 @@ font2img
 ```sh
 python font2img.py --src_font=src.ttf
                    --dst_font=tgt.ttf
-                   --sample_dir=image_directory
+                   --sample_dir=image directory
                    --shuffle=1
                    --unicode=unicode_list.txt
-                   --label=font_label
+                   --label=font label
 ```
 
 package
 ```sh
-python package.py --dir=image_directory
-                  --save_dir=binary_directory
+python package.py --dir=image directory
+                  --save_dir=binary directory
                   --split_ratio=0.1
 ```
 
@@ -26,7 +26,7 @@ experiment/
 train
 ```sh
 python train.py --experiment_dir=experiment 
-                --experiment_id=your_experiment_num
+                --experiment_id=your experiment number
                 --batch_size=16 
                 --lr=0.001
                 --epoch=20 
@@ -39,7 +39,7 @@ infer
 ```sh
 python infer.py --model_dir=checkpoint_dir/
                 --batch_size=16 
-                --source_obj=binary_obj_path 
+                --source_obj=binary.obj 
                 --embedding_ids=font label[s] of the font, separate by comma
                 --save_dir=save_dir/
 ```
