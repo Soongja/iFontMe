@@ -595,6 +595,6 @@ class UNet(object):
                 if counter % checkpoint_steps == 0:
                     print("Checkpoint: save checkpoint step %d" % counter)
                     self.checkpoint(saver, counter)
-        # save the last checkpoint
-        print("Checkpoint: last checkpoint step %d" % counter)
-        self.checkpoint(saver, counter)
+
+            print("Checkpoint: save checkpoint step %d" % counter)
+            self.checkpoint(saver, counter)
