@@ -20,10 +20,11 @@ font2img
 ```sh
 python font2img.py --src_font=src.ttf
                    --dst_font=tgt.ttf
-                   --sample_dir=image directory
-                   --shuffle=1
+                   --sample_dir=image save directory
+                   --shuffle=1(otherwise, 0)
                    --unicode=unicode_list.txt
-                   --label=font label
+                   --label=font label(integer)
+                   --sample_count=number of characters you want to create(integer)
 ```
 
 package
