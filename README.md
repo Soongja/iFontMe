@@ -1,17 +1,30 @@
 ## font labels
 0 - NanumGothic (SOURCE)
+
 1 - SecretDiary
+
 2 - MyHandwritingM
+
 3 - ThreeLeafClover
+
 4 - Mother'sLetterM
+
 5 - Hangseo
+
 6 - LipM
+
 7 - BMHANNA11yrs
+
 8 - BMJUA
+
 9 - SeoulHangangM
+
 10 - Gorae
+
 11 - KindergartenM
+
 12 - nambuk
+
 99 - LoveStory (TARGET)
 
 ## usage
