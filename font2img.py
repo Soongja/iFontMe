@@ -66,8 +66,6 @@ args = parser.parse_args()
 
 if __name__ == "__main__":
     charset = open(args.unicode).read().split('\n')
-    #random.shuffle(a)
-    #charset = a[:200]
     if args.shuffle:
         random.shuffle(charset)
     font2img(args.src_font, args.dst_font, charset,
