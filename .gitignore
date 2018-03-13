@@ -1,1 +1,5 @@
-*.txt
+*.jpg
+!seungjae.jpg
+/TODO
+build/
+build/*.txt
